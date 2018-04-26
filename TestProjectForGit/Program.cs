@@ -11,6 +11,7 @@ namespace TestProjectForGit
         static void Main(string[] args)
         {
             Program prog = new Program();
+            Console.WriteLine("Mensagem super importante!");
             prog.PrintSomething();
         }
 
